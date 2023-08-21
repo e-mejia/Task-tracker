@@ -3,18 +3,34 @@
     padding: 0;
     box-sizing: border-box;
   }
+
+  body {
+
+    /* global 94%+ browsers support */
+    background: radial-gradient(circle at 50% 50%, rgba(3, 169, 244, 1) 0%, rgba(0, 188, 212, 1) 50%, rgba(82, 119, 123, 0.22) 100%);
+
+}
+
   .App {
     width: 800px;
     min-height: 400px;
     margin: 100px auto;
     background-color: #ebebeb;
+    /* box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75); */
+
+box-shadow: 10px 10px 22px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: 10px 10px 22px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 22px 0px rgba(0,0,0,0.75);
+
   }
   
   .title {
     font-family: Roboto, sans-serif;
     text-align: center;
     padding-top: 15px;
-    font-size: 85px;
+    font-size: 65px;
     color: blue;
     font-weight: 100;
     margin-bottom: 12px;
