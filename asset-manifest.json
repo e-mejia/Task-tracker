@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/'http://e-mejia.github.io/task-tracker'/static/css/main.ecad2cd6.css",
-    "main.js": "/'http://e-mejia.github.io/task-tracker'/static/js/main.d586a780.js",
-    "index.html": "/'http://e-mejia.github.io/task-tracker'/index.html",
-    "main.ecad2cd6.css.map": "/'http://e-mejia.github.io/task-tracker'/static/css/main.ecad2cd6.css.map",
-    "main.d586a780.js.map": "/'http://e-mejia.github.io/task-tracker'/static/js/main.d586a780.js.map"
+    "main.css": "/task-tracker/static/css/main.ecad2cd6.css",
+    "main.js": "/task-tracker/static/js/main.d586a780.js",
+    "index.html": "/task-tracker/index.html",
+    "main.ecad2cd6.css.map": "/task-tracker/static/css/main.ecad2cd6.css.map",
+    "main.d586a780.js.map": "/task-tracker/static/js/main.d586a780.js.map"
   },
   "entrypoints": [
     "static/css/main.ecad2cd6.css",
