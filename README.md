@@ -6,7 +6,7 @@ PURPOSE OF THE PROJECT: This is a React task tracking application that can be us
 
 Tech used: HTML, CSS, JavaScript, ReactJS
 
-Using the core technologies of HTML, Css and Javascript as the foundation, and using the popular Javascript Library, React, I built a task tracking application for everday tasks.  
+Using the core technologies of HTML, CSS and Javascript as the foundation, and using the popular Javascript Library, React, I built a task tracking application for everday tasks.  
 
 The following components make up the app:
 
