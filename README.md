@@ -10,16 +10,17 @@ Using the core technologies of HTML, CSS and Javascript as the foundation, and u
 
 The following components make up the app:
 
-Header
-Todoform
-Todolist
-Footer
+- Header
+- Todoform
+- Todolist
+- Footer
 
 and the following files are used to style the markup:
 
-App.css
-Todo.css
-Todoform.css
+- App.css
+- Todo.css
+- Todoform.css
+
 The app also uses React hooks, useState, useEffect and useRef. The app uses a Universally Unique Identifier or UUID function to create unique IDs for mapping andkeeping track of each task.
 
 #  Optimizations
@@ -28,7 +29,7 @@ No app is ever perfect.  And I plan to improve it at some point.  Most likely ad
 
 Lessons Learned:
 
-The use of hooks in functional components as well as working with props was a joy to work with.  It furthered helped deepen my understanding of these concepts.  But of course, there is always room for to further learn and improve.
+The use of hooks in functional components as well as working with props was a joy to work with.  It furthered helped deepen my understanding of these concepts.  But of course, there is always room to further learn and improve.
 
 
 Link to Project:  https://e-mejia.github.io/task-tracker
