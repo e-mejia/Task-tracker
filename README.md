@@ -32,4 +32,4 @@ Lessons Learned:
 The use of hooks in functional components as well as working with props was a joy to work with.  It furthered helped deepen my understanding of these concepts.  But of course, there is always room to further learn and improve.
 
 
-Link to Project:  https://e-mejia.github.io/task-tracker
+Link to Project:    https://e-mejia.github.io/task-tracker
